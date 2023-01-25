@@ -1,0 +1,9 @@
+{
+    "steam_sync_config" : {
+        "deck_address" : "192.168.10.31",
+        "deck_uname" : "deck",
+        "deck_passwd" : "letmein123",
+        "deck_save_location" : "/home/deck/.var/app/org.ryujinx.Ryujinx/config/Ryujinx/bis/user/save",
+        "pc_save_location" : "/mnt/c/Users/casey/AppData/Roaming/Ryujinx/bis/user/save"
+    }
+}
